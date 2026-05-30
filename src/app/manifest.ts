@@ -4,7 +4,7 @@ export default function manifest(): MetadataRoute.Manifest {
   return {
     name: "BucketCloud",
     short_name: "BucketCloud",
-    description: "꿈들이 둥둥 떠다니는 버킷리스트 다이어리",
+    description: "꿈이 둥둥 떠다니는 나만의 버킷리스트",
     start_url: "/",
     scope: "/",
     display: "standalone",
